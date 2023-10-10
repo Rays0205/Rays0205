@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://img.shields.io/badge/Program%20Languages-C%2B%2B_%26_Python-blue
 
 <!--
 **Rays0205/Rays0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
