@@ -7,6 +7,7 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rays0205&theme=react)](https://github.com/Rays0205/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rays0205&theme=react)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rays0205&theme=react)](https://github.com/Rays0205/github-readme-activity-graph)
 <!--
 **Rays0205/Rays0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
