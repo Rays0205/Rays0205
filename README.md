@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Program%20Languages-C%2B%2B_%26_Python-blue) ![Static Badge](https://img.shields.io/badge/My%20code-Online_Course_Program-orange)
  ![Static Badge](https://img.shields.io/badge/I'm%20Learning-Deep%20Learning-jade)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2000&pause=300&multiline=true&random=false&width=435&height=80&lines=Hey%2C+Guys;I'm+Ray%2C+a+fresh+programmer;Welcome+to+my+world)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2000&pause=300&color=61DAFB&multiline=true&random=false&width=435&height=100&lines=Hey%2C+guys;Welcome+to+my+world;I'm+Ray;A+fresh+coder)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rays0205&theme=react)](https://github.com/Rays0205/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rays0205&theme=react)
 <!--
