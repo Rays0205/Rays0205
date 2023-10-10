@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Static Badge](https://img.shields.io/badge/Program%20Languages-C%2B%2B_%26_Python-blue) ![Static Badge](https://img.shields.io/badge/My%20code-Online_Course_Program-orange)
  ![Static Badge](https://img.shields.io/badge/I'm%20Learning-Deep%20Learning-jade)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rays0205&theme=transparent)](https://github.com/Rays0205/github-readme-stats)
 
 
 
