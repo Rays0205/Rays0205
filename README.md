@@ -1,5 +1,8 @@
 ### Hi there 👋
-https://img.shields.io/badge/Program%20Languages-C%2B%2B_%26_Python-blue
+![Static Badge](https://img.shields.io/badge/Program%20Languages-C%2B%2B_%26_Python-blue) ![Static Badge](https://img.shields.io/badge/My%20code-Online_Course_Program-orange)
+ ![Static Badge](https://img.shields.io/badge/I'm%20Learning-Deep%20Learning-jade)
+
+
 
 <!--
 **Rays0205/Rays0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
